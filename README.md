@@ -1,4 +1,4 @@
-\# AGRA Bulletins \& Interactive Reports
+# AGRA Bulletins \& Interactive Reports
 
 
 
@@ -8,21 +8,21 @@ produced by Xylem Lab / Xylem Institute.
 
 
 
-\## Structure
+## Structure
 
-\- `bulletins/` – finalized monthly bulletins organized by year and month
+- `bulletins/` – finalized monthly bulletins organized by year and month
 
-\- `scripts/` – report generation and data processing scripts
+- `scripts/` – report generation and data processing scripts
 
 
 
-\## Usage
+## Usage
 
 Each bulletin folder contains:
 
-\- `data/` – input datasets used for that month
+- `data/` – input datasets used for that month
 
-\- `output/` – generated HTML, PDFs, and figures
+- `output/` – generated HTML, PDFs, and figures
 
 
 
